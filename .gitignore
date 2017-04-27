@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# NPM
+npm-debug.log
+npm-debug.log.*
