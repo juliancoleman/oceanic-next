@@ -1,0 +1,26 @@
+{
+    "name": "oceanic-next",
+    "displayName": "oceanic-next",
+    "description": "Base16 provides carefully chosen syntax highlighting and a default set of sixteen colors suitable for a wide range of applications. Base16 is not a single theme, but a set of guidelines with numerous implementations",
+    "version": "0.0.1",
+    "publisher": "jesussaves",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/juliancoleman/oceanicnext.git"
+    },
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "oceanicnext",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oceanicnext.tmTheme"
+            }
+        ]
+    }
+}
