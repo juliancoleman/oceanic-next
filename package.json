@@ -2,7 +2,7 @@
     "name": "oceanic-next",
     "displayName": "oceanic-next",
     "description": "Base16 provides carefully chosen syntax highlighting and a default set of sixteen colors suitable for a wide range of applications. Base16 is not a single theme, but a set of guidelines with numerous implementations",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "jesussaves",
     "repository": {
         "type": "git",
